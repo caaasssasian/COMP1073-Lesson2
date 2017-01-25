@@ -2,7 +2,7 @@
 
 console.log("App Started");
 
-// create a reference to the button on teh page (index.html)
+// create a reference to the button on the page (index.html)
 var clickMeButton = document.getElementById("clickMeButton");
 
 // add an eent listener - for the click event and call the Click function
